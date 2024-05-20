@@ -1,0 +1,21 @@
+h1 {
+  color: #ff0000;
+  /* Ganti font-size menjadi 40px */
+  font-size: 40px;
+   
+  
+  /* Ganti font-family menjadi serif */
+  font-family: serif;
+  
+
+}
+
+p {
+  color: #0000ff;
+  /* Ganti font-size menjadi 20px */
+  font-size: 20px;
+  
+  /* Ganti font-family menjadi "Lucida Grande" */
+  font-family: "Lucida Grande";
+  
+}

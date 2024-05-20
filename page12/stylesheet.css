@@ -1,0 +1,21 @@
+body {
+  font-family: "Avenir Next";
+}
+
+/* Ganti background-color header menjadi #f7f2b4 dan height menjadi 90px */
+.header {
+  background-color: #f7f2b4;            
+  height: 90px;
+}
+
+/* Ganti background-color main menjadi #bdf7f1 dan height menjadi 600px */
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+/* Ganti background-color footer menjadi #ceccf3 dan height menjadi 270px */
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}

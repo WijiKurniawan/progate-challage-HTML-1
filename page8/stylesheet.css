@@ -1,0 +1,22 @@
+h1 {
+  color: #e6855e;
+  font-size: 30px;
+  /* Ganti background-color menjadi #f3f372 */
+  background-color : #f3f372;
+  
+  /* Ganti height menjadi 80px */
+  height: 80px;
+  
+  /* Ganti width menjadi 200px */
+  width: 200px;
+  
+}
+
+img {
+  /* Ganti height menjadi 50px */
+  height: 50px;
+  
+  /* Ganti width menjadi 70px */
+  width: 70px;
+  
+}
